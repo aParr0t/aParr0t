@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aParr0t
+- 👀 I’m interested in creating somethink big, or just work on small, but fun projects
+- 🌱 I’m currently learning python, web-dev, and a little bit ml
+- 💞️ I'm working alone right now
+- 📫 I'm not open for contact
