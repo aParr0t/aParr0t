@@ -7,7 +7,6 @@
   - C++
   - GitHub & version control (Git)
   - NoSQL and a bit SQL
-  - 
 - 👀 I’m interested in creating somethink big. Other than that I'm working on smaller hobby projects
 - 🌱 I’m currently learning AWS and other hosting related technologies
 - 💞️ I'm working alone right now, but I'd love to collaborate
