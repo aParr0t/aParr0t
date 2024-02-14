@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @aParr0t
-- 👀 I’m interested in creating somethink big, or just work on small, but fun projects
-- 🌱 I’m currently learning python, web-dev, and a little bit ml
-- 💞️ I'm working alone right now
-- 📫 I'm not open for contact
+- 👋 Hi, I’m Atas Lapenas
+- 💡 I'm proficient in:
+  - Next.js/React
+  - Python
+  - HTML & CSS
+  - Javascript / Typescript
+  - C++
+  - GitHub & version control (Git)
+  - NoSQL and a bit SQL
+  - 
+- 👀 I’m interested in creating somethink big. Other than that I'm working on smaller hobby projects
+- 🌱 I’m currently learning AWS and other hosting related technologies
+- 💞️ I'm working alone right now, but I'd love to collaborate
+- 📫 I'm open for contact, both job and hobby related
+- 💬 I'm fluent in norwegian, english, lithuanian and a bit spanish.
